@@ -10,7 +10,7 @@ on:
       - '**'
 
 jobs:
-  tests:
+  lint:
     runs-on: ubuntu-latest
 
     strategy:
